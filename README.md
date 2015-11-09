@@ -1,2 +1,2 @@
 # laundry
-laundry system ni kuya
+laundry system for kuya
